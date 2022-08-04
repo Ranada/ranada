@@ -1,6 +1,6 @@
 ### Hey I'm Neil 👋
  
-I am a Frontend Engineer leveraging five years as a User Experience (UX) professional. I spent three years at UEGroup, a Silicon
+I am a Frontend Engineer with five years of experience as a User Experience (UX) professional. I spent three years at UEGroup, a Silicon
 Valley-based UX firm, working with clients ranging from startups to Fortune 500 companies. I specialize in aligning User Interfaces (UI) by
 applying UX best practices and lessons learned. I use my knowledge of layouts, components, and workflows while programming. I am also a
 US Navy veteran. I served ten years as a former helicopter pilot and program manager.
