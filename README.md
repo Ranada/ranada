@@ -6,7 +6,7 @@ applying UX best practices and lessons learned. I use my knowledge of layouts, c
 
 I am also a US Navy veteran. I served ten years as a former helicopter pilot and program manager.
 
-- ⚡️ Development: Javascript, React.js, HTML, CSS, Node.js, Express.js, Ruby, C, Cypress, Mocha, RSpec
+- ⚡️ Development: Javascript, TypeScript, React.js, HTML, CSS, Node.js, Express.js, Ruby, C, Cypress, Mocha, RSpec
 - 💡 Design: User interviews, User stories, User flows, Wireframes, Hi-fidelity mockups, Prototyping, Usability testing
 - 🚀 Project management: GitHub, Jira, Confluence, Asana, Google Workspace, Notion
 - 📫 How to reach me: neil.ranada@gmail.com
