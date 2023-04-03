@@ -6,14 +6,14 @@ applying UX best practices and lessons learned. I use my knowledge of layouts, c
 
 I am also a US Navy veteran. I served ten years as a former helicopter pilot and program manager.
 
-⭐️ Development technologies I'm focused on using (1.5 years)
+⭐️ Development stack (1.5 years)
 - Frontend: JavaScript, TypeScript, React.js, HTML, CSS, Tailwind CSS
 - Backend: Node.js, Express.js, Next.js, tRPC
 - Database: Prisma, SQL
 - Deployment: Vercel
 - Other technoligies I've used: Ruby, C
 
-💡 Design (5 years): UX design, UI design, User interviews, User stories, User flows, Wireframes, Hi-fidelity mockups, Prototyping, Usability testing
+💡 Design (5 years): UX, UI design, User interviews, User stories, User flows, Wireframes, Hi-fidelity mockups, Prototyping, Usability testing
 
 🚀 Project management (5 years): GitHub, Jira, Confluence, Asana, Google Workspace, Notion 
 
