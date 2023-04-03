@@ -6,8 +6,19 @@ applying UX best practices and lessons learned. I use my knowledge of layouts, c
 
 I am also a US Navy veteran. I served ten years as a former helicopter pilot and program manager.
 
-- ⚡️ Development: Javascript, TypeScript, React.js, HTML, CSS, Node.js, Express.js, Ruby, C (1 year)
-- 💡 Design: User interviews, User stories, User flows, Wireframes, Hi-fidelity mockups, Prototyping, Usability testing (5 years)
-- 🚀 Project management: GitHub, Jira, Confluence, Asana, Google Workspace, Notion (5 years)
-- 📫 How to reach me: neil.ranada@gmail.com
-- 🏄🏻‍♂️ I like to surf, travel, and hike
+⭐️ Development technologies I'm focused on using (1.5 years)
+- Frontend: JavaScript, TypeScript, React.js, HTML, CSS, Tailwind CSS
+- Backend: Node.js, Express.js, Next.js, tRPC
+- Database: Prisma, SQL
+- Deployment: Vercel
+- Other technoligies I've used: Ruby, C
+
+💡 Design (5 years): UX design, UI design, User interviews, User stories, User flows, Wireframes, Hi-fidelity mockups, Prototyping, Usability testing
+
+🚀 Project management (5 years): GitHub, Jira, Confluence, Asana, Google Workspace, Notion 
+
+🏄🏻‍♂️ I like to surf, travel, and hike
+
+✅ Connect with me: https://www.linkedin.com/in/neilranada/
+
+📫 How to reach me: neil.ranada@gmail.com
