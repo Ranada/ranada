@@ -1,6 +1,6 @@
 ### Hey I'm Neil 👋
  
-I am a Software Engineer with five years of experience as a User Experience (UX) professional. I spent three years at UEGroup, a Silicon
+I am a Software Engineer with six years of experience as a User Experience (UX) professional. I spent three years at UEGroup, a Silicon
 Valley-based UX firm, working with clients ranging from startups to Fortune 500 companies. I specialize in aligning User Interfaces (UI) by
 applying UX best practices and lessons learned. I use my knowledge of layouts, components, and workflows while programming. I enjoy organizing data through logical problem-solving and displaying it on a screen. 
 
