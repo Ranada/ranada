@@ -15,9 +15,9 @@ applying UX best practices and lessons learned. I use my knowledge of layouts, c
 - Deployment: Vercel
 - Other technoligies I've used: Ruby, C
 
-💡 Design (5 years): UX, UI design, User interviews, User stories, User flows, Wireframes, Hi-fidelity mockups, Prototyping, Usability testing
+💡 Design (7 years): UX, UI design, User interviews, User stories, User flows, Wireframes, Hi-fidelity mockups, Prototyping, Usability testing
 
-🚀 Project management (5 years): GitHub, Jira, Confluence, Asana, Google Workspace, Notion 
+🚀 Project management (7 years): GitHub, Jira, Confluence, Asana, Google Workspace, Notion 
 
 🏄🏻‍♂️ I like to surf, travel, and hike
 
