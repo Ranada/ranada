@@ -4,7 +4,7 @@ I am a Software Engineer with six years of experience as a User Experience (UX) 
 Valley-based UX firm, working with clients ranging from startups to Fortune 500 companies. I specialize in aligning User Interfaces (UI) by
 applying UX best practices and lessons learned. I use my knowledge of layouts, components, and workflows while programming. I enjoy organizing data through logical problem-solving and displaying it on a screen. 
 
-⭐️ I am available for software engineering opportunities in Los Angeles County, Orange County, Washington State, or remote roles.
+⭐️ I am available for software engineering opportunities in Los Angeles County, Orange County, Washington State, New York, Atlanta, or remote roles.
 
 🚁 I am also a US Navy veteran. I served ten years as a former helicopter pilot and program manager.
 
