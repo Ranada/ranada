@@ -10,10 +10,10 @@ applying UX best practices and lessons learned. I use my knowledge of layouts, c
 
 🖥 Development stack (1.5 years)
 - Frontend: JavaScript, TypeScript, React.js, HTML, CSS, Tailwind CSS
-- Backend: Node.js, Express.js, Next.js, tRPC
+- Backend: Node.js, Express.js, Next.js, tRPC, C#
 - Database: Prisma, SQL
 - Deployment: Vercel
-- Other technoligies I've used: Ruby, C
+- Other technologies I've used: Ruby, C, .NET
 
 💡 Design (7 years): UX, UI design, User interviews, User stories, User flows, Wireframes, Hi-fidelity mockups, Prototyping, Usability testing
 
