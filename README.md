@@ -1,12 +1,16 @@
 # Hey I'm Neil 👋
  
-I am a Software Engineer with six years of experience as a User Experience (UX) professional. I spent three years at UEGroup, a Silicon
+I build web applications using **C#** and **ASP.NET** Core. I enjoy making meaningful products and services. I’m based in sunny Los Angeles, California.  
+<br>
+
+I also have six years of experience as a User Experience (UX) professional. I spent three years at UEGroup, a Silicon
 Valley-based UX firm working with clients ranging from startups to Fortune 500 companies. I specialize in aligning User Interfaces (UI) by
-applying UX best practices and lessons learned. I use my knowledge of layouts, components, and workflows while programming. I enjoy organizing data through logical problem-solving and displaying it on a screen. 
+applying UX best practices and lessons learned. I use my knowledge of layouts, components, and workflows while programming. I enjoy organizing data through logical problem-solving and displaying it on a screen.  
+<br>
 
-🚁 I am also a US Navy veteran. I served ten years as a former helicopter pilot and program manager. 
+🚁 I'm also a US Navy veteran. I served ten years as a former helicopter pilot and program manager. 
 
-⭐️ I am available for software engineering opportunities in Los Angeles County, Orange County, Washington State, or remote roles.  
+⭐️ I'm available for software engineering opportunities in Los Angeles County, Orange County, Washington State, or remote roles.  
 <br>
 
 ## I'm currently focused on programming in...
