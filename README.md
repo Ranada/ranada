@@ -1,7 +1,6 @@
 # Hey I'm Neil 👋
  
 I build web applications using **C#** and **ASP.NET** Core. I enjoy making meaningful products and services. I’m based in sunny Los Angeles, California.  
-<br>
 
 I also have six years of experience as a User Experience (UX) professional. I spent three years at UEGroup, a Silicon
 Valley-based UX firm working with clients ranging from startups to Fortune 500 companies. I specialize in aligning User Interfaces (UI) by
