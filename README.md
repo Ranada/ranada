@@ -25,7 +25,7 @@ TypeScript, JavaScript, React.js, Next.js, tRPC, Prisma, PostgreSQL, Supabase, V
 <br>
 
 ## I've designed for startups and Fortune 500 companies using...
-UX, UI design, user interviews, user stories, user flows, wireframes, hi-fidelity mockups, prototyping, usability testing  
+UX, UI design, user interviews, user stories, user flows, wireframes, hi-fidelity mockups, prototyping, usability testing, Adobe XD, Figma
 <br>
 
 ## I've managed projects using...
