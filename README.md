@@ -1,13 +1,17 @@
 # Hey I'm Neil 👋
  
-I build web applications using **C#** and **ASP.NET** Core. I enjoy making meaningful products and services. I’m based in sunny Los Angeles, California.  
+I build web applications using **C#** and **ASP.NET** Core. I enjoy making meaningful products and services.
 
-I also have six years of experience as a User Experience (UX) professional. I spent three years at UEGroup, a Silicon
-Valley-based UX firm working with clients ranging from startups to Fortune 500 companies. I specialize in aligning User Interfaces (UI) by
-applying UX best practices and lessons learned.
-<br>
+I also have six years of experience as a User Experience (UX) professional. I recently redesigned a responsive company website and dashboard web application for Hoste, a fast-growing vacation rental management business. View the live site at: https://hoste.com/
 
-🚁 I'm also a US Navy veteran. I served ten years as a former helicopter pilot and program manager. 
+I spent three years at UEGroup, a Silicon Valley-based UX firm, working with clients ranging from startups to Fortune 500 companies.
+My most notable UX projects include leading the creation of a design system for a medical device company and the modernization of digital tools for an aviation company.
+https://www.uegroup.com/
+<be>
+
+I'm in the middle of a professional rebranding where I did UX work under my company, Yoko Digital. I'm shifting focus to developing ASP.NET Core web applications and building my portfolio. https://www.yokodigital.co/
+
+🚁 I'm also a veteran U.S. Navy helicopter pilot and program manager. The most fulfilling time of my flying career was transporting injured people and delivering relief supplies after Haiti's 7.0 magnitude earthquake in 2010. 
 
 ⭐️ I'm available for software engineering opportunities in Los Angeles County, Orange County, Washington State, or remote roles.  
 <br>
