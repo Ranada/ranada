@@ -2,7 +2,7 @@
  
 I build web applications using **C#** and **ASP.NET** Core. I enjoy making meaningful products and services.
 
-I also have six years of experience as a User Experience (UX) professional. I recently redesigned a responsive company website and dashboard web application for Hoste, a fast-growing vacation rental management business. View the live site at: https://hoste.com/
+I also have six years of experience as a User Experience (UX) professional. I recently redesigned a dashboard web application and company website for Hoste, a fast-growing vacation rental management business. View the live site at: https://hoste.com/
 
 I spent three years at UEGroup, a Silicon Valley-based UX firm, working with clients ranging from startups to Fortune 500 companies.
 My most notable UX projects include leading the creation of a design system for a medical device company and the modernization of digital tools for an aviation company.
