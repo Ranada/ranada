@@ -1,8 +1,12 @@
 # Hey I'm Neil 👋
  
-I build web applications using **C#** and **ASP.NET** Core. I enjoy making meaningful products and services.
+For the past six years, I've successfully launched web apps as a User Experience (UX) professional. 
 
-I also have six years of experience as a User Experience (UX) professional. I recently designed a dashboard web application and company website for Hoste, a fast-growing vacation rental management business. View the live site at: https://hoste.com/
+Now, I'm working to bring that experience to life as a  **C#** and **ASP.NET Core** software developer. 
+
+Let's connect to discuss how I can bring value to your team.  
+
+I recently designed a dashboard web application and company website for Hoste, a fast-growing vacation rental management business. View the live site at: https://hoste.com/
 
 I spent three years at UEGroup, a Silicon Valley-based UX firm, working with clients ranging from startups to Fortune 500 companies.
 My most notable UX projects include leading the creation of a design system for a medical device company and the modernization of digital tools for an aviation company.
