@@ -1,8 +1,8 @@
 # Hey I'm Neil 👋
- 
-For the past six years, I've successfully launched web apps as a User Experience (UX) professional. 
 
-Now, I'm working to bring that experience to life as a  **C#** and **ASP.NET Core** software developer. 
+I've spent six years working as a UX designer and project manager. I’ve launched new web apps and fixed up old ones from the design and planning side. 
+
+Now, I'm working on building these things as a  **C#** and **ASP.NET Core** software developer. 
 
 Let's connect to discuss how I can bring value to your team.  
 
