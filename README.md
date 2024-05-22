@@ -6,7 +6,7 @@ Now, I'm working on building these things as a  **C#** and **ASP.NET Core** soft
 
 Let's connect to discuss how I can bring value to your team.  
 
-I recently designed a dashboard web application and company website for Hoste, a fast-growing vacation rental management business. View the live site at: https://hoste.com/
+I recently designed a dashboard web application and company website for Hoste, a fast-growing vacation rental management business. View the live dashboard web application at: https://owner.hoste.com/
 
 I spent three years at UEGroup, a Silicon Valley-based UX firm, working with clients ranging from startups to Fortune 500 companies.
 My most notable UX projects include leading the creation of a design system for a medical device company and the modernization of digital tools for an aviation company.
