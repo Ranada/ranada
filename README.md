@@ -14,8 +14,8 @@ https://www.uegroup.com/
 ⭐️ I'm available for software-related opportunities in Los Angeles County, Orange County, Washington State, or remote roles.  
 <br>
 
-## After I ramp up with my flying career, I plan on learning...
-Swift. Initially, I was learning ASP.NET Core web applications. However, when I jumped back into aviation, many apps I use while flying are only available on iPad and iPhone devices.
+## I'm currently focused on building my flying career, but once I'm established...
+I plan to dive into Swift and iOS development. I previously explored ASP.NET Core web applications, but many of the tools I use in aviation are iOS-only, making Swift the natural next step.
 
 ## I previously programmed in... 
 C#, ASP.NET Core, Blazor, Razor, HTML, CSS, Bootstrap, REST API, Microsoft SQL Server, T-SQL, Entity Framework Core, xUnit testing, Object-Oriented Programming (OOP)  
